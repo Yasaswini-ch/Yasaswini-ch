@@ -162,12 +162,7 @@ class YasaswiniChebolu:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasaswini-ch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=C9D1D9" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasaswini-ch&theme=radical&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakLabel=6A5ACD" alt="GitHub Streak" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasaswini-ch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=C9D1D9" alt="Top Languages" width="40%"/>
 </p>
 
 <p align="center">
